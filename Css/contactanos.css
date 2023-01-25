@@ -143,6 +143,22 @@ height: 60%;
 background-color:  rgb(55,121,95);
 }
 
-
+@media (max-width:480px){
+  html{
+    width: fit-content;
+  }
+  main{
+    display: block;
+    height: 1000px;
+  
+  }
+  .texto-contact{
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+  .divimagen{
+    padding: 0px;
+  }
+}
 
 

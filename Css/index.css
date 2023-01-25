@@ -4,78 +4,58 @@ background-color:rgb(231,231,231);
 }
 
 .section1{
-    height: 630px;
-    min-width: 100%;
-    /* width:max-content; */
-    position: relative;
-    /* display: inline-block; */
-    /* text-align: right; */
-    /* align-items:flex-end; */
-    /* align-content:flex-end; */
-    /* justify-content: center; */
-    background-image: url(/imagenes/ar-1109-1329493-0-front.webp);
-
+height: 630px;
+min-width: 100%;
+position: relative;
+background-image: url(/imagenes/ar-1109-1329493-0-front.webp);
 }
 .section1::after {
-    content:'';
-    position: absolute;
-    top: 0px;
-    bottom: 0px;
-    left: 0px;
-    right: 0px;
-    /* background: rgb(55,121,95); */
-    background: linear-gradient(270deg, rgba(55,121,95,1) 55%, rgba(255,255,255,0) 100%);
-    
+content:'';
+position: absolute;
+top: 0px;
+bottom: 0px;
+left: 0px;
+right: 0px;
+
+background: linear-gradient(270deg, rgba(55,121,95,1) 55%, rgba(255,255,255,0) 100%);
+
 }
     
 .textop{
-    font-size: 40px;
-    color: white;
-    position: absolute;
-    text-align: center;
-    
+font-size: 40px;
+color: white;
+text-align: center;
 }
 
 .fondotextop{
-
-    width: 600px;
-    height: 100px;
-    background-color: rgba(255, 255, 255, 0.302);
-    border-radius: 20px;
-    position: absolute;
-    top: 50%;
-    left: 70%;
-    transform: translate(-50%, -50%);
-    display: flex;
-    align-items: center;
-    z-index: 10
-}
-.section2{
-    height: 100%;
-    width: auto;  
-    top: 0px;
-    background-color:rgb(231,231,231);
-    margin-top: 0px;
-
+width: 600px;
+height: 100px;
+background-color: rgba(255, 255, 255, 0.302);
+border-radius: 20px;
+position: absolute;
+top: 50%;
+left: 70%;
+transform: translate(-50%, -50%);
+display: flex;
+align-items: center;
+z-index: 10
 }
 .titulo-section2{
-    text-align: center;
-    margin-top: 40px;
-    font-size:22px;
-    
-    
+text-align: center;
+margin-top: 40px;
+font-size:22px;
 }
 
 
 /* Servicios */
 
 .grid-layout {
-    display: grid;
-    grid-gap: 1rem;
-    grid-template-areas:
-      "boda convencion"
-      "more more";
-      justify-content: space-around;
+display: grid;
+grid-gap: 1rem;
+grid-template-areas:
+"boda convencion"
+"more more";
+justify-content: space-around;
 }
 .card-container {
     display: flex;
@@ -85,9 +65,8 @@ background-color:rgb(231,231,231);
     height: 325px;
     border: 2px solid #ccc;
     border-radius: 5px;
-    overflow: hidden;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    /* margin: 2rem 5rem 2rem 5rem; */
+    margin: 2rem 5rem 2rem 5rem;
     margin-top: 60px;
   }
   
@@ -177,7 +156,7 @@ background-color:rgb(231,231,231);
     
   }
   .b-see-more{
-    width: 480px;
+ 
   }
   .grid-layout{
     
