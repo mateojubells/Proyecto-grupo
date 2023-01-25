@@ -1,0 +1,123 @@
+.grid-layout {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-areas:
+    "title title"
+    "boda convencion"
+    "congreso personalizado";
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 500px;
+  height: 325px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 10px 6px -6px rgb(40, 40, 40);
+  margin: 1rem 5rem 1rem 5rem;
+  background-color: white;
+  transition: box-shadow 0.5s 0s ease-in-out;
+}
+
+.card-container:hover {
+  box-shadow: 10px 15px 10px -6px rgb(34, 34, 34);
+}
+
+.card-container img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-container .text {
+  padding: 5px 20px 20px 20px;
+  font-size: 18px;
+}
+
+.card-container h3 {
+  padding: 5px;
+  font-size: 30px;
+}
+
+h1 {
+  font-size: 2rem;
+  text-align: center;
+}
+
+#boda {
+  grid-area: boda;
+}
+#convencion {
+  grid-area: convencion;
+}
+#congreso {
+  grid-area: congreso;
+}
+#personalizado {
+  grid-area: personalizado;
+}
+#title-section {
+  grid-area: title;
+}
+
+@media (max-width: 480px) {
+  /* Telefono */
+  .grid-layout {
+    grid-template-areas:
+      "title"
+      "boda"
+      "convencion"
+      "congreso"
+      "personalizado";
+  }
+  .card-container {
+    display: flex;
+    width: 280px;
+    height: 325px;
+    margin: 1rem 1rem 1rem 1rem;
+  }
+}
+
+@media (min-width: 480px), (max-width: 1185px) {
+  /* Tablet */
+  .grid-layout {
+    grid-template-areas:
+      "title"
+      "boda"
+      "convencion"
+      "congreso"
+      "personalizado";
+  }
+  .card-container {
+    display: flex;
+    width: 400px;
+    height: 325px;
+    margin: 1rem 2rem 1rem 2rem;
+  }
+}
+
+@media (min-width: 1185px){
+  /* PC */
+  .grid-layout {
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-areas:
+      "title title"
+      "boda convencion"
+      "congreso personalizado";
+  }
+
+  .card-container {
+    width: 500px;
+    margin: 1rem 5rem 1rem 5rem;
+  }
+}

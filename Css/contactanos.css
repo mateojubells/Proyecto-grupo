@@ -1,0 +1,148 @@
+/* FORMULARIO */
+html{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: helvetica;
+}
+
+form{
+width: 430px;
+padding-left: 2.5rem;  
+padding-right: 2.5rem; 
+}
+.section1contact{
+padding-top: 12%;
+}
+
+.section2contact{
+padding-top: 10%;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.tituloInterior{
+color: rgb(55,121,95);
+/* text-align: center; */
+font-size: 22px;
+margin-top: -10px;
+margin-bottom: 10px;
+}
+.tituloForm{
+  font-style: italic;
+color: rgb(55,121,95);
+font-size: 30px;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+:root {
+--primary-color: #119a13;
+--second-color: #444563;
+--third-color: #c4dfdc;
+--fourth-color: #e5e6fc;
+--fifth-color: #888ac6; 
+}
+
+* {
+box-sizing: border-box;
+}
+body{
+background-color:rgb(231,231,231);
+height: auto;
+}
+  
+h1 {
+font-size: 3rem;
+font-weight: bold;
+padding: 2rem;
+text-align: center;
+
+}
+
+main {
+/* padding: 5%; */
+background-color:rgb(231,231,231);
+display: grid;
+grid-template-columns: 1fr 1fr;
+text-align: center;
+font-family:Helvetica, sans-serif;
+height: 700px;
+
+}
+
+.form-group {
+padding: 0.5rem;
+color: rgb(55,121,95);
+}
+input, textarea {
+border: 1px solid #ac9595;
+border-radius: 10px;
+}
+input:not(input[type="radio"], input[type="checkbox"]), textarea, select {
+width: 100%;
+font-size: 1.25rem;
+line-height: 1.75rem;
+}
+
+label {
+display: block;
+margin-bottom: 0.35rem;
+font-size: 1.1rem;
+}
+
+.btn {
+background-color: rgb(200, 192, 192);
+width: 40%;
+height: 2.5rem;
+
+margin-top: 10px;
+font-size: 1.25rem;
+border-radius: 10px;
+border-width: 1px;
+cursor:pointer;
+}
+.btn:hover {
+background-color:  rgb(55,121,95);
+}
+.form-group::placeholder{
+font-size: 50px;
+}
+
+.grid-container-3{
+display: grid;
+grid-gap: 50px;
+grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+justify-content: center;
+}
+.texto-contact{
+padding-left: 20%;
+padding-right: 10%;
+display: flex;
+text-align: justify;
+
+font-size: 22px;
+color: rgb(55,121,95);
+
+
+}
+.divimagen{
+padding-left: 5%;
+
+}
+
+.imagen-contacto{
+margin-top: 40px;
+box-sizing: border-box;
+border:black;
+border-radius: 20px;
+border-width: 2px;
+width: 60%;
+height: 60%;
+
+}
+.barra{
+background-color:  rgb(55,121,95);
+}
+
+
+
+

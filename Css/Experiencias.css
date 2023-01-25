@@ -1,0 +1,72 @@
+html{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-style: helvetica; 
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 75px;
+    margin-right: 75px;
+  
+  }
+  
+  .grid-layout {
+    height: 100%;
+    display: grid;
+    grid-gap: 2.5rem; 
+    text-align: justify;
+    grid-template-areas:
+    'title title title title'
+    'one  one five five'
+    'two two six six'
+    'three three seven seven'
+    'four four eight eight';
+  }
+  
+  .imagenes{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px 0px rgb(0,0,0,0.4);
+  }
+  
+  .titol {
+    color: rgb(208,255,171);
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    margin: 0;
+  }
+  .lletra{
+    color: rgb(73, 111, 45);
+    font-size: 21px;  
+    box-sizing: content-box;
+  }
+  .espai{
+    box-sizing: border-box;
+    background-color: rgb(174, 223, 137);
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px 0px rgb(0,0,0,0.4);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  
+  #title {grid-area: title; margin-bottom: 40px; margin-top: 30px;}
+  #one {grid-area: one}
+  #two {grid-area: two}
+  #three {grid-area: three}
+  #four {grid-area: four}
+  #five {grid-area: five; margin: auto;}
+  #six {grid-area: six; margin: auto;}
+  #seven {grid-area: seven; margin: auto;}
+  #eight {grid-area: eight; margin: auto;}
+  
+  
+  
