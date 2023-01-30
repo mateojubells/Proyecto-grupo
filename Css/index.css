@@ -5,13 +5,13 @@ background-color:rgb(231,231,231);
 
 .section1{
 height: 630px;
-min-width: 100%;
+/* min-width: 100%; */
 position: relative;
 background-image: url(/imagenes/ar-1109-1329493-0-front.webp);
 }
 #language-selector{
-  z-index: 10;
-  position: absolute;
+  /* z-index: 10; */
+  /* position: absolute; */
 }
 
 .section1::after {
@@ -21,9 +21,7 @@ top: 0px;
 bottom: 0px;
 left: 0px;
 right: 0px;
-
 background: linear-gradient(270deg, rgba(55,121,95,1) 55%, rgba(255,255,255,0) 100%);
-
 }
     
 .textop{
@@ -159,9 +157,6 @@ justify-content: space-around;
   .card-container{
     width: 280px;
     
-  }
-  .b-see-more{
- 
   }
   .grid-layout{
     

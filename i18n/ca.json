@@ -49,12 +49,35 @@
   "descripcion_personalizado": 
   "Creem esdeveniments únics i personalitzats per a cada un dels nostres clients. Amb nosaltres, la seva ocasió serà inoblidable.",
 
+"txt_quienSomosPregunta" : "Quí sóm?", 
+"txt_quienSomos" : "Som un grup d'empresaris que ens dediquem a la gestió d'esdeveniments a partir de reunions amb els clients. Quan coneixes algú el més normal és preguntar-li a què es dedica. Si et responen per Gestió d'esdeveniments segur que tens moltíssimes preguntes sobre què exactament o quins esdeveniments.",
+"txt_queEventosOfrecemos" : "Quins esdeveniments oferim?",
+"txt_eventoOfrecemos1" : " Els nostres serveis inclouen la cerca de llocs per a l'esdeveniment, la contractació de proveïdors de serveis, la planificació i execució del programa, el disseny i decoració del lloc, la logística i el transport, la seguretat i el servei de càtering. També oferim serveis de màrqueting i promoció per ajudar a augmentar l'assistència i l'impacte de l'esdeveniment. ",
+"txt_eventoOfrecemos2" : "La nostra empresa s'ha establert com a líder en el mercat de la gestió d'esdeveniments, amb una gran quantitat de clients satisfets que han confiat en nosaltres per als esdeveniments més importants. La nostra experiència a la indústria ens permet anticipar i resoldre problemes abans que passin, garantint un esdeveniment exitós i sense problemes.",
+"txt_enQueNosCentramos" : "En que ens centrem?",
+"txt_enQue1": "En resum, som una empresa de gestió d'esdeveniments fiable i professional, amb un enfocament a l'atenció al client i la creació d'experiències úniques i inoblidables. Comptem amb un equip altament capacitat i experimentat, i oferim una àmplia gamma de serveis per ajudar els nostres clients a planificar i executar esdeveniments d'èxit.",
+"txt_enQue2" : "A més dels nostres serveis tradicionals de planificació i execució d´esdeveniments, també oferim una varietat d´opcions personalitzades i paquets per satisfer les necessitats específiques de cada client. Per exemple, oferim paquets d'esdeveniments temàtics, com ara casaments temàtics, festes d'aniversari temàtics i esdeveniments corporatius temàtics. També oferim paquets d'esdeveniments virtuals per a aquells clients que prefereixen dur a terme els esdeveniments en línia a causa de la pandèmia.", 
+"txt_trabajounicoTitulo" : " Un treball únic ", 
+"txt_TrabajoUnico" : "Ens esforcem per ser una empresa sostenible i responsable, i treballem amb proveïdors i col·laboradors que comparteixen els nostres valors. A més, treballem estretament amb els nostres clients per assegurar-nos de complir els seus requisits i pressupostos, i sempre busquem maneres de millorar els nostres serveis i oferir un valor afegit.",
+"txt_textoRes" : "En resum, som una empresa de gestió d'esdeveniments de confiança i professional, oferim una àmplia gamma de serveis per ajudar els nostres clients a planificar i executar esdeveniments d'èxit, i sempre estem buscant maneres de millorar i oferir un valor afegit. Si esteu buscant una empresa fiable i experimentada per ajudar-lo amb els vostres esdeveniments, no dubteu a posar-vos en contacte amb nosaltres!",
+"txt_nuestrosLocales" : "Els nostres locals",
+"txt_FotoLocalBadalona" : "Foto del nostre local de Badalona.",
+"txt_FotoLocalGracia" : " Foto del nostre local de Gràcia",
+"txt_FotoLocalHospitalet" : "Foto del nostre local d'Hospitalet",
+"txt_FotoLocalPuerto" :" Foto del nostre local al Port de Barcelona",
+"txt_Locales1" : "Tot i comptar amb locals propis per a la realització d'esdeveniments i oficines, la nostra empresa s'ha especialitzat en el lloguer de locals per a esdeveniments a tot el país. Actualment, comptem amb més de 20.000 opcions de locals disponibles per llogar, des de petites sales de conferències fins a grans recintes per a fires i concerts.",
+"txt_Locales2" : "Ens sentim orgullosos d'oferir una àmplia gamma d'opcions per satisfer les necessitats de qualsevol tipus d'esdeveniment, i ens esforcem per mantenir una relació propera amb els nostres clients per garantir que trobin el local perfecte per a les seves necessitats. A més, ens assegurem de mantenir els nostres locals en condicions excel·lents per garantir una experiència satisfactòria per als nostres clients i els seus convidats.",
+"txt_Locales3" : "A la nostra empresa estem en constant creixement i evolució i tenim plans d'expandir els nostres serveis de lloguer de locals a nivell europeu. Estem emocionats de seguir oferint una àmplia gamma d'opcions als nostres clients i ajudar-los a planificar i executar esdeveniments d'èxit en una varietat de locals a tot Europa.",
+"txt_Locales4" : "En resum, la nostra empresa s'especialitza en el lloguer de locals per a esdeveniments, oferint més de 20.000 opcions a tot el país. Ens sentim orgullosos d'oferir una àmplia gamma d'opcions per satisfer les necessitats de qualsevol tipus d'esdeveniment i mantenim una relació propera amb els nostres clients per garantir que trobin el local perfecte. A més, estem planejant expandir els nostres serveis a nivell europeu",
+
+  
+
   "txt_section1": "LA TEVA COMPANYIA D'ESDEVENIMENTS DE CONFIANÇA.",
   "txt_section2": "Descobreix els nostres serveis",
   "txt_ver_mas": "VEURE MÉS"
 
 
-
+  
 
   }
 

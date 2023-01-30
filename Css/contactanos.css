@@ -5,7 +5,7 @@ html{
 }
 
 form{
-width: 430px;
+width:55%;
 padding-left: 2.5rem;  
 padding-right: 2.5rem; 
 }
@@ -22,24 +22,16 @@ align-items: center;
 
 .tituloInterior{
 color: rgb(55,121,95);
-/* text-align: center; */
 font-size: 22px;
 margin-top: -10px;
 margin-bottom: 10px;
 }
 .tituloForm{
-  font-style: italic;
+font-style: italic;
 color: rgb(55,121,95);
 font-size: 30px;
 text-align: center;
 font-family: Georgia, 'Times New Roman', Times, serif;
-}
-:root {
---primary-color: #119a13;
---second-color: #444563;
---third-color: #c4dfdc;
---fourth-color: #e5e6fc;
---fifth-color: #888ac6; 
 }
 
 * {
