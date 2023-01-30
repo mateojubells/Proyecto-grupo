@@ -1,12 +1,52 @@
 {
+
+  "txt_header_servicios": "Services",
+  "txt_header_nosotros": "About Us",
+  "txt_header_experiencias": "Experiences",
+  "txt_header_contactanos": "Contact Us",
+
   "txt_experiencias": "Experiences",
   "txt_OrganizamosTodo": "We organize all kinds of experiences where our clients are always satisfied, weddings can be organized anywhere, from beaches to villages lost in the mountains. We have more than 20 years of experience in organizing weddings of all kinds, from conventional weddings to weddings with activities beforehand to entertain guests. Furthermore, we offer a catering service with top quality dishes and a wide variety so that the guest can find the ideal dish. After 20 years offering this service, customers have been more than satisfied.",
   "txt_OrganizamosFiestas": "We organize private parties of any kind, from private estates with swimming pools or on the beach, to discos to spend a good night. This section of organizing private parties is one of the most prominent where clients, after having good experiences, have repeated several times, all kinds of offers can be made to seek adaptability and ease for the client. Thanks to this, customers have great loyalty to us thanks to our services and professionalism.",
   "txt_VariosMunicipios": "Several municipalities have already had our services to organize popular festivals where today you can do various activities, from children's parties for minors, popular festivals with a show with background music, outdoor activities such as gymkhanas or outdoor dances. All the municipalities that we have provided a service have given us a good assessment and have repeated our service thanks to the ease in preparing things or activities and managing them.",
   "txt_paraLosMas": "For the most daring, a wide variety of outdoor activities can be organized, from horse riding or archery to zip-line circuits and mountain orienteering tests. These activities are one of the most well valued since the client enjoys the experience in natural landscapes and doing infrequent activities. Children also enjoy these types of outdoor activities a lot since they can be in contact with animals that cannot see in the cities Today you can also organize several activities in one day when you could include food so that you can continue with the activities later.",
+
+  "txt_titoloForm":"Contact us fill out this form",
+  "txt_contacta_con_nosotros":"Contact us through this form and we will contact you as soon as possible providing you with various budgets adjusting to your ideas.",
+  "txt_firstName":"Name",
+  "txt_lastName":"Surname",
+  "txt_email":"Email",
+  "txt_CExplicacion":"Explanation",
+  "txt_birthday":"Party date",
+  "txt_portBarcelona":"Port of Barcelona",
+
+  "txt_servicios": "Services",
+  "txt_boda": "Wedding",
+  "descripcion_boda": 
+  "We turn dreams into reality with our attention to detail and careful planning. Let us take care of everything for your perfect wedding.",
+  "txt_convencion": "Convetion",
+  "descripcion_convencion": 
+  "We turn your ideas into epic events. With our experience in convention organization, your next event will be a guaranteed success.",
+  "txt_congreso": "Congress",
+  "descripcion_congreso": 
+  "We take your conference to the next level with our experience in organization and planning. Let us handle all the details for a successful event.",
+  "txt_personalizado": "Customized",
+  "descripcion_personalizado": 
+  "We create unique and personalized events for each of our clients. With us, your occasion will be unforgettable.",
+  "footer_servicios": "Services",
+  "footer_nosotros": "About Us",
+  "footer_experiencias": "Experiences",
+  "footer_contactanos": "Contact Us",
+  "txt_ver_mas": "See More",
+  "txt_section1":"YOUR TRUSTED EVENT COMPANY.",
+  "txt_section2":"Discover our services",
+  
+  
   
   "txt_serviciosFooter":"Services",
   "txt_sobreNosotrosFooter": "About Us",
   "txt_experienciasFooter": "Experiences",
   "txt_contactanosFooter": "Contact Us"
+
+  
 }

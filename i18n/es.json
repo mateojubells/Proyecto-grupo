@@ -22,13 +22,25 @@
   "footer_experiencias": "Experiencias",
   "footer_contactanos": "Contactanos",
   
-
+  "txt_titoloForm":"Contacte con nostoros rellenando este formulario",
+  "txt_contacta_con_nosotros":"Contacta con nosotros a traves de este formulario y le contactaremos lo antes posible facilitandole varios presupuestos ajusatndose a sus ideas.",
+  "txt_firstName":"Nombre",
+  "txt_lastName":"Apellido",
+  "txt_email":"Email",
+  "txt_CExplicacion":"Explicación",
+  "txt_birthday":"Fecha de la fiesta",
+  "txt_portBarcelona":"Puerto de Barclona",
 
   "txt_experiencias": "Experiencias",
   "txt_OrganizamosTodo": "Organizamos todo tipo de experiencias donde nuestros clientes siempre quedan satisfechos, se pueden organizar bodas en cualquier sitio, desde playas hasta pueblos perdidos en las montañas. Tenemos más de 20 años de experiencia en organizar bodas de todo tipo, desde bodas convencionales hasta con bodas con actividades previas para entretener a los invitados. Ofrecemos un servicio de catering con unos platos de primera calidad y con gran variedad para que así el invitado encuentre el plato ideal. Después de 20 años ofreciendo este servicio, los clientes han quedado más que satisfechos.",
   "txt_OrganizamosFiestas": "Organizamos fiestas privadas de cualquier tipo, desde fincas privadas con piscinas o en la playa, hasta discotecas para pasar una buena noche. Este apartado de organizar fiestas privadas es 1 de los más destacados donde los clientes después detener buenas experiencias han repetido varias veces, se puede hacer oferta de todo tipo para buscar la adaptabilidad y la facilidad para el cliente. Gracias a esto los clientes tienen una gran fidelidad con nosotros gracias a nuestros servicios y profesionalidad.",
   "txt_VariosMunicipios": "Varios municipios ya han contado con nuestros servicios para organizar fiestas populares dónde hoy se puede hacer varias actividades, desde fiestas infantiles para los menores, fiestas populares con espectáculo pon música de ambiente, actividades al aire libre como gimcanas o bailes al aire libre. Todos los municipios que hemos prestado servicio nos han dado una buena valoración y han repetido de nuestro servicio gracias a la facilidad a la hora de preparar las cosas o actividades y a la gestión de ellas.",
   "txt_paraLosMas": "Para los más atrevidos y atrevidas se pueden organizar actividades al aire libre de gran variedad desde actividades de montar en caballo o tiro con arco hasta circuito de tirolinas y pruebas de orientación por la montaña. Estas actividades son unas de las más bien valoradas ya que el cliente disfruta de la experiencia en los paisajes naturales y haciendo actividades poco frecuentes también los niños disfruta mucho de estos tipos de actividades al aire libre ya que pueden estar en contacto con animales que no pueden ver en las ciudades. Hoy también se pueden organizar varias actividades en un día donde se podría incluir la comida para así luego continuar con las actividades.",
+
+  "txt_section1": "TU COMPAÑIA DE EVENTOS DE CONFIANZA",
+  "txt_section2": "Descubre nuestos servicios",
+  "txt_ver_mas": "VER MÁS",
+  
   
   "txt_serviciosFooter":"Servicios",
   "txt_sobreNosotrosFooter": "Sobre Nosotros",

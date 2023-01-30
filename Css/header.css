@@ -11,6 +11,12 @@ justify-content: center;
 text-align: center;
 background-color: rgb(55,121,95);
 }
+
+button{
+    background-color:rgb(208,255,171);
+    border: 0px;
+  margin-bottom: 2px;
+}
 .items{
 margin:20px;
 justify-content: center;

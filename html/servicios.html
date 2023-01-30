@@ -13,18 +13,21 @@
   </head>
   <body>
     <header>
+      <div class="grid-container-2">
+        <a class="foto" href="/html/index.html" ><img class="imagen" src="/imagenes/logopractica1.png" alt=""></a>
+        <a href="/html/servicios.html" class="items sub-item" id="txt_header_servicios">Servicios</a>
+        <a href="/html/SobreNosotros.html" class="items sub-item" id="txt_header_nosotros">Sobre Nosotros</a>
+        <a href="/html/Experiencias.html" class="items sub-item" id="txt_header_experiencias">Experiencias</a>
+        <a href="/html/Contactanos.html" class="contact" id="txt_header_contactanos">Contactanos</a>
+      </div>  
+        <div>
+          <button onclick="changeLanguage('ca')">Cat</button>
+          <button onclick="changeLanguage('es')">Esp</button>
+          <button onclick="changeLanguage('en')">Eng</button>
+        </div>
+        <script src="../javaScript/servicios.js"></script>
       
-       
-    <div class="grid-container-2">
-  
-     <a class="foto" href="/html/index.html" ><img class="imagen" src="/imagenes/logopractica1.png" alt=""></a>
-     <a href="/html/servicios.html" class="items sub-item" id="txt_header_servicios">Servicios</a>
-     <a href="/html/SobreNosotros.html" class="items sub-item" id="txt_header_nosotros">Sobre Nosotros</a>
-     <a href="/html/Experiencias.html" class="items sub-item" id="txt_header_experiencias">Experiencias</a>
-     <a href="/html/Contactanos.html" class="contact" id="txt_header_contactanos">Contactanos</a>
-  
-    </div>
-    </header>
+    </header> 
 
     <main class="grid-layout">
       <section id="title-section">
@@ -88,16 +91,16 @@
         <li><img src="/imagenes/logopractica1.png" alt="" class="imagenfooter"></li>
       </ul>
       <ul class="secondfooter">
-        <li ><a class="itemsfooter" href="/html/servicios.html" id="footer_servicios">Servicios</a> </li>
+        <li ><a class="itemsfooter" href="/html/servicios.html" id="txt_serviciosFooter">Servicios</a> </li>
         <span class="span"></span>
-        <li><a class="itemsfooter" href="/html/SobreNosotros.html" id="footer_nosotros">Sobre Nosotros</a></li>
+        <li><a class="itemsfooter" href="/html/SobreNosotros.html" id="txt_sobreNosotrosFooter">Sobre Nosotros</a></li>
         <span class="span"></span>
-        <li><a class="itemsfooter" href="/html/Experiencias.html" id="footer_experiencias">Experiencias</a></li>
+        <li><a class="itemsfooter" href="/html/Experiencias.html" id="txt_experienciasFooter">Experiencias</a></li>
       </ul>
       <ul class="lastcolumnfooter">
-        <li><a href="/html/Contactanos.html" class="contactfooter" id="footer_contactanos">Contactanos</a></li>
+        <li><a href="/html/Contactanos.html" class="contactfooter" id="txt_contactanosFooter">Contactanos</a></li>
       </ul>
     </footer>
-
+    
   </body>
 </html>

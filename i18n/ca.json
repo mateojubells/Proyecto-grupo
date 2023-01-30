@@ -1,13 +1,19 @@
 {
-    
+  "txt_header_servicios": "Serveis",
+  "txt_header_nosotros": "Sobre Nosasltres",
+  "txt_header_experiencias": "Experiencias",
+  "txt_header_contactanos": "Contactens",
 
 
-
-
-
-
-
-
+  "txt_titoloForm": "Contacti amb nosaltres omplint aquest formulari",
+  "txt_contacta_con_nosotros": "Contacta amb nosaltres a través d'aquest formulari i us contactarem el més aviat possible facilitant-vos diversos pressupostos ajudant-vos a les vostres idees.",
+  "txt_firstName": "Nom",
+  "txt_lastName": "Cognom",
+  "txt_email":"Email",
+  "txt_CExplicacion":"Explicació",
+  "txt_birthday":"Data de la festa",
+  "txt_portBarcelona":"Port de Barclona",
+  
 
 
 
@@ -22,8 +28,28 @@
     "txt_VariosMunicipios": "Diversos municipis ja han comptat amb els nostres serveis per organitzar festes populars on avui es poden fer diverses activitats, des de festes infantils per als menors, festes populars amb espectacle posa música d'ambient, activitats a l'aire lliure com gimcanes o balls a l'aire lliure. Tots els municipis que hem prestat servei ens han donat una bona valoració i han repetit del nostre servei gràcies a la facilitat a l'hora de preparar les coses o activitats i gestionar-les.",
     "txt_paraLosMas": "Per als més atrevits i atrevides es poden organitzar activitats a l'aire lliure de gran varietat des d'activitats de muntar amb cavall o tir amb arc fins a circuit de tirolines i proves d'orientació per la muntanya. Aquestes activitats són unes de les més ben valorades, ja que el client gaudeix de l'experiència als paisatges naturals i fent activitats poc freqüents també els nens gaudeixen molt d'aquests tipus d'activitats a l'aire lliure, perquè poden estar en contacte amb animals que no poden veure a les ciutats. Avui també es poden organitzar diverses activitats en un dia on es podria incloure el menjar per així continuar amb les activitats.",
     
+
     "txt_serviciosFooter":"Serveis",
     "txt_sobreNosotrosFooter": "Sobre Nosaltres",
     "txt_experienciasFooter": "Experiencias",
-    "txt_contactanosFooter": "Contactens"
+    "txt_contactanosFooter": "Contactens",
+
+
+  "txt_servicios": "Serveis",
+  "txt_boda": "Boda",
+  "descripcion_boda": 
+  "Transformem somnis en realitat amb la nostra atenció al detall i planificació cuidadosa. Deixa que ens encarreguem de tot per a la teva boda perfecta.",
+  "txt_convencion": "Convenció",
+  "descripcion_convencion": 
+  "Transformem les teves idees en esdeveniments épics. Amb la nostra experiència en organització de convencions, el teu proper esdeveniment serà un èxit garantit.",
+  "txt_congreso": "Congrés",
+  "descripcion_congreso": 
+  "Portem el teu congrés al següent nivell amb la nostra experiència en organització i planificació. Deixa que ens encarreguem de tots els detalls perquè el teu esdeveniment sigui un èxit.",
+  "txt_personalizado": "Personalizat",
+  "descripcion_personalizado": 
+  "Creem esdeveniments únics i personalitzats per a cada un dels nostres clients. Amb nosaltres, la seva ocasió serà inoblidable.",
+
+  "txt_section1": "LA TEVA COMPANYIA D'ESDEVENIMENTS DE CONFIANÇA.",
+  "txt_section2": "Descobreix els nostres serveis",
+  "txt_ver_mas": "VEURE MÉS"
   }

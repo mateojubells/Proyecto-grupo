@@ -12,6 +12,12 @@ main {
   justify-content: center;
   align-items: center;
 }
+#txt_servicios{
+  padding: 25px;
+  color: rgb(208,255,171);
+  font-family:Georgia, 'Times New Roman', Times, serif ;
+  font-style: italic; 
+}
 
 .card-container {
   display: flex;

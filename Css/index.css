@@ -9,6 +9,15 @@ min-width: 100%;
 position: relative;
 background-image: url(/imagenes/ar-1109-1329493-0-front.webp);
 }
+.botonesidioma{
+ background-color: green;
+ color: green;
+}
+#language-selector{
+  z-index: 10;
+  position: absolute;
+}
+
 .section1::after {
 content:'';
 position: absolute;
@@ -29,7 +38,7 @@ text-align: center;
 
 .fondotextop{
 width: 600px;
-height: 100px;
+height: 150px;
 background-color: rgba(255, 255, 255, 0.302);
 border-radius: 20px;
 position: absolute;
