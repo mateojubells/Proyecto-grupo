@@ -9,10 +9,6 @@ min-width: 100%;
 position: relative;
 background-image: url(/imagenes/ar-1109-1329493-0-front.webp);
 }
-.botonesidioma{
- background-color: green;
- color: green;
-}
 #language-selector{
   z-index: 10;
   position: absolute;

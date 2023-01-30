@@ -15,7 +15,8 @@ background-color: rgb(55,121,95);
 button{
     background-color:rgb(208,255,171);
     border: 0px;
-  margin-bottom: 2px;
+    margin-bottom: 2px;
+  
 }
 .items{
 margin:20px;
@@ -118,15 +119,17 @@ transform: scale(1.05);
 }
 
 @media (max-width:480px){
-    header{
+    .header{
         align-items: center;
         display: inline;
         justify-content: center;
         grid-gap:0px
         width: 100%;
         box-sizing: border-box;
+        background-color : rgb(55,121,95);
         
     }
+  
     .footer{
         width: 100%;
     

@@ -12,7 +12,7 @@
   "txt_email":"Email",
   "txt_CExplicacion":"Explicació",
   "txt_birthday":"Data de la festa",
-  "txt_portBarcelona":"Port de Barclona",
+  "txt_portBarcelona":"Port de Barcelona",
   
 
 
@@ -26,7 +26,7 @@
     "txt_OrganizamosTodo": "Organitzem tota mena d'experiències on els nostres clients sempre queden satisfets, es poden organitzar casaments a qualsevol lloc, des de platges fins a pobles perduts a les muntanyes. Tenim més de 20 anys d'experiència en organitzar casaments de tota mena, des de casaments convencionals fins a casaments amb activitats prèvies per entretenir els convidats. Oferim un servei de càtering amb uns plats de primera qualitat i amb gran varietat perquè així el convidat trobi el plat ideal. Després de 20 anys oferint aquest servei, els clients han quedat més que satisfets.",
     "txt_OrganizamosFiestas": "Organitzem festes privades de qualsevol tipus, des de finques privades amb piscines o a la platja, fins a discoteques per passar una bona nit. Aquest apartat d'organitzar festes privades és 1 dels més destacats on els clients després de detenir bones experiències han repetit diverses vegades, es pot fer oferta de tota mena per buscar l'adaptabilitat i la facilitat per al client. Gràcies a això, els clients tenen una gran fidelitat amb nosaltres gràcies als nostres serveis i professionalitat.",
     "txt_VariosMunicipios": "Diversos municipis ja han comptat amb els nostres serveis per organitzar festes populars on avui es poden fer diverses activitats, des de festes infantils per als menors, festes populars amb espectacle posa música d'ambient, activitats a l'aire lliure com gimcanes o balls a l'aire lliure. Tots els municipis que hem prestat servei ens han donat una bona valoració i han repetit del nostre servei gràcies a la facilitat a l'hora de preparar les coses o activitats i gestionar-les.",
-    "txt_paraLosMas": "Per als més atrevits i atrevides es poden organitzar activitats a l'aire lliure de gran varietat des d'activitats de muntar amb cavall o tir amb arc fins a circuit de tirolines i proves d'orientació per la muntanya. Aquestes activitats són unes de les més ben valorades, ja que el client gaudeix de l'experiència als paisatges naturals i fent activitats poc freqüents també els nens gaudeixen molt d'aquests tipus d'activitats a l'aire lliure, perquè poden estar en contacte amb animals que no poden veure a les ciutats. Avui també es poden organitzar diverses activitats en un dia on es podria incloure el menjar per així continuar amb les activitats.",
+    "txt_paraLosMas": "Per els més atrevits i atrevides es poden organitzar activitats a l'aire lliure de gran varietat des d'activitats de muntar amb cavall o tir amb arc fins a circuit de tirolines i proves d'orientació per la muntanya. Aquestes activitats són unes de les més ben valorades, ja que el client gaudeix de l'experiència als paisatges naturals i fent activitats poc freqüents també els nens gaudeixen molt d'aquests tipus d'activitats a l'aire lliure, perquè poden estar en contacte amb animals que no poden veure a les ciutats. Avui també es poden organitzar diverses activitats en un dia on es podria incloure el menjar per així continuar amb les activitats.",
     
 
     "txt_serviciosFooter":"Serveis",
@@ -52,4 +52,9 @@
   "txt_section1": "LA TEVA COMPANYIA D'ESDEVENIMENTS DE CONFIANÇA.",
   "txt_section2": "Descobreix els nostres serveis",
   "txt_ver_mas": "VEURE MÉS"
+
+
+
+
   }
+
