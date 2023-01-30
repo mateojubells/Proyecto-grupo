@@ -51,7 +51,6 @@ text-align: center;
 }
 
 main {
-/* padding: 5%; */
 background-color:rgb(231,231,231);
 display: grid;
 grid-template-columns: 1fr 1fr;
@@ -85,7 +84,6 @@ font-size: 1.1rem;
 background-color: rgb(200, 192, 192);
 width: 40%;
 height: 2.5rem;
-
 margin-top: 10px;
 font-size: 1.25rem;
 border-radius: 10px;
@@ -129,28 +127,27 @@ border-radius: 20px;
 border-width: 2px;
 width: 60%;
 height: 60%;
-
 }
 .barra{
 background-color:  rgb(55,121,95);
 }
 
 @media (max-width:480px){
-  html{
-    width: fit-content;
-  }
-  main{
-    display: block;
-    height: 1000px;
-  
-  }
-  .texto-contact{
-    padding-left: 10%;
-    padding-right: 10%;
-  }
-  .divimagen{
-    padding: 0px;
-  }
+html{
+width: fit-content;
+}
+main{
+display: block;
+height: 1000px;
+
+}
+.texto-contact{
+padding-left: 10%;
+padding-right: 10%;
+}
+.divimagen{
+padding: 0px;
+}
 }
 
 

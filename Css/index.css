@@ -10,8 +10,8 @@ position: relative;
 background-image: url(/imagenes/ar-1109-1329493-0-front.webp);
 }
 #language-selector{
-  /* z-index: 10; */
-  /* position: absolute; */
+/* z-index: 10; */
+/* position: absolute; */
 }
 
 .section1::after {
@@ -23,7 +23,7 @@ left: 0px;
 right: 0px;
 background: linear-gradient(270deg, rgba(55,121,95,1) 55%, rgba(255,255,255,0) 100%);
 }
-    
+
 .textop{
 font-size: 40px;
 color: white;
@@ -61,112 +61,96 @@ grid-template-areas:
 justify-content: space-around;
 }
 .card-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 500px;
-    height: 325px;
-    border: 2px solid #ccc;
-    border-radius: 5px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    margin: 2rem 5rem 2rem 5rem;
-    margin-top: 60px;
-  }
-  
-  .card-container:hover {
-    box-shadow: 2px 8px 10px 2px rgba(0, 0, 0, 0.4);
-  }
-  
-  .card-container img {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-  }
-  
-  .card-container .text {
-    padding: 5px 20px 50px 20px;
-    font-size: 16px;
-  }
-  
-  .card-container h3 {
-    padding: 5px;
-    font-size: 30px;
-  }
-
-  .b-see-more{
-    width: 100%;
-    background-color: rgb(55,121,95);
-    border: none;
-    padding: 15px 32px;
-    text-align: center;
-    color: white;
-    box-shadow: 5px;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    box-sizing: border-box;
-  }
-  
-
-  #b-see-more:hover{
-    cursor: pointer;
-    box-shadow: 8px;
-    background-color: rgb(44, 97, 61);
-  }
-  
-  #boda {grid-area: boda;}
-  #convencion {grid-area: convencion;}
-  #b-see-more {grid-area: more;}
-  
-  /* MOVIL */
-
-  #boda {
-    grid-area: boda;
-  }
-  #convencion {
-    grid-area: convencion;
-  }
-
-  @media (max-width:480px){
-    html{
-      /* width: auto; */
-    
-    }
-    main{
-      display:inline-block;
-      height: 1550px;
-      /* width: 480px ; */
-      width: 100%;
-      
-    
-    }
-    body{
-      /* width: 70%; */
-      margin: 0px;
-    }
-    .section2{
-      display: inline;
-    
-  }
-  .textop{
-    font-size: 20px;
-  }
-  .fondotextop{
-    width: 50%;
-  }
-  .card-container{
-    width: 280px;
-    
-  }
-  .grid-layout{
-    
-  
-    grid-template-areas:
-     'boda'
-     'convencion'
-    ;
- 
-  }
-  
+display: flex;
+flex-direction: column;
+align-items: center;
+width: 500px;
+height: 325px;
+border: 2px solid #ccc;
+border-radius: 5px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+margin: 2rem 5rem 2rem 5rem;
+margin-top: 60px;
 }
-  
+
+.card-container:hover {
+box-shadow: 2px 8px 10px 2px rgba(0, 0, 0, 0.4);
+}
+
+.card-container img {
+width: 100%;
+height: 200px;
+object-fit: cover;
+}
+
+.card-container .text {
+padding: 5px 20px 50px 20px;
+font-size: 16px;
+}
+
+.card-container h3 {
+padding: 5px;
+font-size: 30px;
+}
+
+.b-see-more{
+width: 100%;
+background-color: rgb(55,121,95);
+border: none;
+padding: 15px 32px;
+text-align: center;
+color: white;
+box-shadow: 5px;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+box-sizing: border-box;
+}
+
+
+#b-see-more:hover{
+cursor: pointer;
+box-shadow: 8px;
+background-color: rgb(44, 97, 61);
+}
+
+#boda {grid-area: boda;}
+#convencion {grid-area: convencion;}
+#b-see-more {grid-area: more;}
+
+/* MOVIL */
+
+#boda {
+grid-area: boda;
+}
+#convencion {
+grid-area: convencion;
+}
+@media (max-width:480px){
+main{
+display:inline-block;
+height: 1550px;
+width: 100%;
+}
+body{
+margin: 0px;
+}
+.section2{
+display: inline;
+}
+.textop{
+font-size: 20px;
+}
+.fondotextop{
+width: 50%;
+}
+.card-container{
+width: 280px;
+}
+.grid-layout{
+grid-template-areas:
+'boda'
+'convencion'
+;
+}
+}
