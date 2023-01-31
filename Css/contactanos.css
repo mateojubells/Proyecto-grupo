@@ -112,8 +112,8 @@ text-align: justify;
 font-size: 22px;
 color: rgb(55,121,95);
 
-
 }
+
 .divimagen{
 padding-left: 5%;
 
@@ -148,6 +148,16 @@ padding-right: 10%;
 .divimagen{
 padding: 0px;
 }
+form{
+  width: 80%;
+}
+
+.btn{
+  width: 100px;
+}
+
+
+
 }
 
 
